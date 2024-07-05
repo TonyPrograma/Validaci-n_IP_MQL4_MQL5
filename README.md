@@ -1,0 +1,2 @@
+Estos Expert Advisors es para comprender como se puede licenciar un archivo mq4 y mq4 mediante dirección IP, para ello es obligatorio agregar la siguiente página web "https://cual-es-mi-ip-publica.com/" en la seccion Expert Advisor en Option y tambien se debe permitit DLL. 
+Este archivo lee la página web que retorna la dirección IP y la valida en la base de datos interna del EA y solo, si son igiuales, va a cruzar OnInit hasta OnTick.
